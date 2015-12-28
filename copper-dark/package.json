@@ -1,0 +1,22 @@
+{
+	"name": "Theme-CopperDark",
+	"displayName": "CopperDark",
+	"description": "",
+	"version": "0.0.1",
+	"publisher": "ristomatti",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "CopperDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/copperDark.tmTheme"
+			}
+		]
+	}
+}
