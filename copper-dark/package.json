@@ -13,7 +13,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "CopperDark",
+				"label": "Copper Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/copperDark.tmTheme"
 			}
