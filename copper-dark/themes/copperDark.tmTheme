@@ -211,7 +211,7 @@
 			<key>name</key>
 			<string>Storage type</string>
 			<key>scope</key>
-			<string>storage.type</string>
+			<string>storage.type, storage.type.ts</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
